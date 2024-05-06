@@ -1,4 +1,4 @@
-if card_type == "页眉卡片1":
+if card_type == "页眉卡片-hhh":
   card = {
     "type": "custom:mod-card",
     "card": {
