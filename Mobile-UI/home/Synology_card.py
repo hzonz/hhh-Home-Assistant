@@ -1,4 +1,4 @@
-#理论，支持所有群晖，图片部分需自定义。
+# 理论，支持所有群晖，图片部分需自定义。
 if card_type == "群晖卡片-hhh":
   card = {
     "type": "custom:button-card",
