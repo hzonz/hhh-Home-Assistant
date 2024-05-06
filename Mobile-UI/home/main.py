@@ -1,3 +1,5 @@
+#天气图标只支持和风天气iocn,可前往下载"https://github.com/qwd/Icons/releases/download/v1.6.0/QWeather-Icons-1.6.0.zip"
+#把icon文件夹 放入www文件夹下，具体路径/local/weather_icons
 if card_type == "主要信息卡片-hhh":
   card = {
         "type": "custom:button-card",
