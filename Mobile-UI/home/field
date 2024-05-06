@@ -1,5 +1,5 @@
-chips = [
-    {
+if card_type == "信息组卡片-hhh":
+  card = {
         "type": "template",
         "entity": "sensor.wen_shi_du_chuan_gan_qi_wen_du_zu",
         "content": "{{ states(entity, 'temperature') | round(1) }} °C",
